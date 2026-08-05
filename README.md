@@ -92,4 +92,4 @@ ______________________________________________________________________
 
 <p align="center"><i>📍 Chennai, India</i></p>
 
-<h1 align="center"><i><b> KEEP BECOMING </b></i></h1>
+<h3 align="center"><i><b> Keep Becoming </b></i></h3>
