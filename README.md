@@ -2,9 +2,9 @@
 
 
 ```
-┌────────────────────────────────────────────┐
+______________________________________________________________________
 
-👤 Name       : Sanjai B
+👤 Name       : SANJAI B
 
 💼 Role       : Full Stack Developer, AI / ML Engineer
 
@@ -18,7 +18,7 @@
 
 💡 Philosophy : "Built, Not Born."
 
-└────────────────────────────────────────────┘
+______________________________________________________________________
 ```
 
 ### 🛠️ Tech Stack
@@ -81,17 +81,6 @@
 
 ---
 
-### 📜 Certifications
-
-- Introduction to IoT, Ethical Hacking, Cyber Threat Management, Modern AI, Cybersecurity — Cisco Networking Academy
-- Data Science Essentials with Python, CCNA — Cisco Networking Academy
-- AI Fundamentals — ServiceNow | MongoDB Basics — MongoDB University
-- AWS Cloud Practitioner, Handling AWS IoT Device — AWS
-- Claude AI and Agent Workflows — Anthropic Academy
-- Virtual Internship (AIML), Android Developer, IoT Cloud Engineer — Eduskills
-- Internet of Things (IoT) & Data Analytics Using Python — NPTEL
-
----
 
 ### 📫 Connect With Me
 
@@ -103,4 +92,4 @@
 
 <p align="center"><i>📍 Chennai, India</i></p>
 
-<p align="center"><i><b>Keep Becoming </b></i></p>
+<h1 align="center"><i><b> KEEP BECOMING </b></i></h1>
