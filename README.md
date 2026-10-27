@@ -8,7 +8,7 @@ ______________________________________________________________________
 
 💼 Role       : Full Stack Developer, AI / ML Engineer
 
-🎓 Degree     : B.E. Computer Science & Engineering (CGPA: 8.21)
+🎓 Degree     : B.E. Computer Science & Engineering (CGPA: 8.32)
 
 🧬 Interests  : Full Stack Development,  Artificial Intelligence,
                 Machine Learning, LLMs & RAG, Generative AI
